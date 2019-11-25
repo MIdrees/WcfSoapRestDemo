@@ -1,0 +1,14 @@
+D:\Projects\WcfRestDemo\WcfRestDemo\bin\WcfRestDemo.dll.config
+D:\Projects\WcfRestDemo\WcfRestDemo\bin\WcfRestDemo.dll
+D:\Projects\WcfRestDemo\WcfRestDemo\bin\WcfRestDemo.pdb
+D:\Projects\WcfRestDemo\WcfRestDemo\obj\Debug\WcfRestDemo.csprojAssemblyReference.cache
+D:\Projects\WcfRestDemo\WcfRestDemo\obj\Debug\WcfRestDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WcfRestDemo\WcfRestDemo\obj\Debug\WcfRestDemo.dll
+D:\Projects\WcfRestDemo\WcfRestDemo\obj\Debug\WcfRestDemo.pdb
+D:\Projects\WcfDemo\WcfRestDemo\bin\WcfRestDemo.dll.config
+D:\Projects\WcfDemo\WcfRestDemo\bin\WcfRestDemo.dll
+D:\Projects\WcfDemo\WcfRestDemo\bin\WcfRestDemo.pdb
+D:\Projects\WcfDemo\WcfRestDemo\obj\Debug\WcfRestDemo.csprojAssemblyReference.cache
+D:\Projects\WcfDemo\WcfRestDemo\obj\Debug\WcfRestDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WcfDemo\WcfRestDemo\obj\Debug\WcfRestDemo.dll
+D:\Projects\WcfDemo\WcfRestDemo\obj\Debug\WcfRestDemo.pdb

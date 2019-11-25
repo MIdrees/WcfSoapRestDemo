@@ -1,0 +1,14 @@
+D:\Projects\WcfDemo\WcfSoapAndRest\bin\WcfSoapAndRest.dll.config
+D:\Projects\WcfDemo\WcfSoapAndRest\bin\WcfSoapAndRest.dll
+D:\Projects\WcfDemo\WcfSoapAndRest\bin\WcfSoapAndRest.pdb
+D:\Projects\WcfDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.csproj.CoreCompileInputs.cache
+D:\Projects\WcfDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.dll
+D:\Projects\WcfDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.pdb
+D:\Projects\WcfDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.csprojAssemblyReference.cache
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\bin\WcfSoapAndRest.dll.config
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\bin\WcfSoapAndRest.dll
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\bin\WcfSoapAndRest.pdb
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.csprojAssemblyReference.cache
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.csproj.CoreCompileInputs.cache
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.dll
+D:\Projects\WcfSoapRestDemo\WcfSoapAndRest\obj\Debug\WcfSoapAndRest.pdb

@@ -1,0 +1,7 @@
+D:\Projects\WcfDemo\WcfSoapDemo\bin\WcfSoapDemo.dll.config
+D:\Projects\WcfDemo\WcfSoapDemo\bin\WcfSoapDemo.dll
+D:\Projects\WcfDemo\WcfSoapDemo\bin\WcfSoapDemo.pdb
+D:\Projects\WcfDemo\WcfSoapDemo\obj\Debug\WcfSoapDemo.csprojAssemblyReference.cache
+D:\Projects\WcfDemo\WcfSoapDemo\obj\Debug\WcfSoapDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WcfDemo\WcfSoapDemo\obj\Debug\WcfSoapDemo.dll
+D:\Projects\WcfDemo\WcfSoapDemo\obj\Debug\WcfSoapDemo.pdb
